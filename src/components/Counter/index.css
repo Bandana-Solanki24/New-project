@@ -1,0 +1,23 @@
+.bg-container{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    height: 100vh;
+    align-items: center;
+    background-color: aqua;
+}
+.number{
+    font-size: 40px;
+    color: blueviolet;
+    font-weight: 600;
+
+}
+.button{
+    padding:10px;
+    margin: 10px;
+    font-size:33px;
+    color: cornflowerblue;
+    border-radius:13px;
+    background-color: aquamarine;
+    border:2px bold black;
+}

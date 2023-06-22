@@ -1,0 +1,15 @@
+.todo-container{
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content:flex-start;
+    align-items: center;
+}
+/* .todo-item{
+    padding:5px;
+   
+} */
+.button{
+    margin:2px;
+    padding:2px;
+}
